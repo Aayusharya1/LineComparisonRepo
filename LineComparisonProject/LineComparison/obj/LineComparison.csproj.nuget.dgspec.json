@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aayush Arya\\source\\repos\\LineComparison\\LineComparison\\LineComparison.csproj": {}
+    "C:\\Users\\Aayush Arya\\Desktop\\class assignments\\LineComparison\\LineComparisonProject\\LineComparison\\LineComparison.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aayush Arya\\source\\repos\\LineComparison\\LineComparison\\LineComparison.csproj": {
+    "C:\\Users\\Aayush Arya\\Desktop\\class assignments\\LineComparison\\LineComparisonProject\\LineComparison\\LineComparison.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aayush Arya\\source\\repos\\LineComparison\\LineComparison\\LineComparison.csproj",
+        "projectUniqueName": "C:\\Users\\Aayush Arya\\Desktop\\class assignments\\LineComparison\\LineComparisonProject\\LineComparison\\LineComparison.csproj",
         "projectName": "LineComparison",
-        "projectPath": "C:\\Users\\Aayush Arya\\source\\repos\\LineComparison\\LineComparison\\LineComparison.csproj",
+        "projectPath": "C:\\Users\\Aayush Arya\\Desktop\\class assignments\\LineComparison\\LineComparisonProject\\LineComparison\\LineComparison.csproj",
         "packagesPath": "C:\\Users\\Aayush Arya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aayush Arya\\source\\repos\\LineComparison\\LineComparison\\obj\\",
+        "outputPath": "C:\\Users\\Aayush Arya\\Desktop\\class assignments\\LineComparison\\LineComparisonProject\\LineComparison\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aayush Arya\\AppData\\Roaming\\NuGet\\NuGet.Config",
